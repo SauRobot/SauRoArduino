@@ -8,3 +8,5 @@ Abdullah Salih BAYRAKTAR					abdullahsalihb@gmail.com
 Rabia KARA                        rabia.kara@ogr.sakarya.edu.tr
 
 Sümeyye SARIÇAM                   sumeyye98762@gmail.com
+
+Halil İbrahim ŞEKER               g141210082@sakarya.edu.tr
