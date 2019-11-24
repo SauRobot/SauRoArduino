@@ -69,7 +69,7 @@ int buttonPin=21;
 bool surus;
  void Reset(){
    Serial.println("sa");
-  bControl.blink();
+   //bControl.blink();
   }
 void setup() {
   Serial.begin(9600);
